@@ -1,0 +1,12 @@
+{
+    "name": "com.toorahgames.drawing",
+    "version": "1.0.0",
+    "displayName": "Drawing Lib",
+    "description": "A Small library for using Graphics Drawing functions",
+    "unity": "2020.2",
+    "author": {
+        "name": "Atahan Tugra Kiltan",
+        "email": "",
+        "url": "https://toorahgames.com"
+    }
+}
