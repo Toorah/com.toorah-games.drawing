@@ -46,6 +46,12 @@ namespace Toorah.Drawing
                 options.bottomBorder,
                 options.color * 0.5f, material);
         }
+        public void Draw(Rect rect, Texture texture, Material material)
+        {
+            Graphics.DrawTexture(
+                rect,
+                texture, material);
+        }
 
         public void Dispose()
         {
