@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "Drawing Lib",
     "description": "A Small library for using Graphics Drawing functions",
-    "unity": "2020.2",
+    "unity": "2020.1",
     "author": {
         "name": "Atahan Tugra Kiltan",
         "email": "atahan.kiltan@toorah-games.com",
