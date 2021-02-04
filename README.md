@@ -3,4 +3,4 @@
 # Drawing Library
 This library is used as dependencies by other packages
  
-https://github.com/Toorah/com.toorah-games.gradienttool/blob/main/README.md
+https://github.com/Toorah/com.toorah-games.gradienttool
