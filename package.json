@@ -1,7 +1,7 @@
 {
     "name": "com.toorah-games.drawing",
     "version": "1.0.0",
-    "displayName": "Drawing Lib",
+    "displayName": "Drawing Library",
     "description": "A Small library for using Graphics Drawing functions",
     "unity": "2020.1",
     "author": {
